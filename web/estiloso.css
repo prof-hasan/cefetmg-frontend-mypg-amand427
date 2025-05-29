@@ -1,0 +1,80 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background-image: linear-gradient( to left top, rgb(252, 238, 207), rgb(219, 179, 91), rgb(252, 238, 207), rgb(219, 179, 91));
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 35px;
+}
+.imagemlado1 {
+    float: right;
+    margin-left: 5px;
+    width: 15%;
+    border-radius: 50%;
+    border: 1px solid rgb(77, 51, 34);
+}
+.imagemlado2 {
+    float: left;
+    margin-right: 5px;
+    width: 15%;
+    border-radius: 50%;
+    border: 1px solid rgb(77, 51, 34);
+}
+.menor {
+    width: 20%;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    font-weight: 500;
+    font-size: 300%;
+}
+ h2, h3 {
+    font-family: cursive;
+    text-align: center;
+    font-weight: 500;
+    font-size: 200%;
+ }
+
+ h4 {
+    font-family: cursive;
+    text-align: center;
+    font-weight: 500;
+ }
+
+p {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+
+ul {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+table{
+    border: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+thead, .titulinho, tfoot {
+    background-color: rgba(255, 255, 255, 0.753);
+}
+td, th {
+    border: 1px solid rgb(77, 51, 34)
+}
+
+.link {
+    margin: 5%;
+    text-align: justify;
+    font-family: cursive;
+}
